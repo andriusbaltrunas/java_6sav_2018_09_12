@@ -13,12 +13,10 @@ public class FirstTask {
             word = scanner.nextLine();
             int countLetters = countLetters(word);
             if(word.length() % 2 == 0){
-               // System.out.println("Ivestas zodis " + word +" jo ilgis yra " + word.length() + " rasta a raidziu "+ countLetters);
                 System.out.printf("Ivestas zodis %s jo ilgis yra %d rasta a raidziu %d", word, word.length(),countLetters);
             }else{
                 System.out.printf("Ivestas zodis %s  nelyginis jo ilgis yra %d rasta a raidziu %d", word, word.length(),countLetters);
             }
-            //System.out.println(word);
         } while (!word.toLowerCase().equals("pabaiga"));
     }
 
