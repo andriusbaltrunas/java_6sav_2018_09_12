@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9425e5e-44c5-43da-aed4-23d13c82792e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/days/third/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/days/third/MyMainCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/koduote.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fourth/EncodeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fourth/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fourth/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/days/fourth/SetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1_diena/days/second/ThirdExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1_diena/days/second/ThirdExample.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,33 +21,38 @@
     <session id="130746439">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.101" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.71" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="20" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="20" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="19" />
-          <entry key="java" value="2919" />
+          <entry key="dummy" value="20" />
+          <entry key="java" value="3584" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2919" />
-          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="JAVA" value="3584" />
+          <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
     </session>
@@ -51,25 +60,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/third/Calculator.java">
+        <entry file="file://$PROJECT_DIR$/src/days/fourth/EncodeExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-              <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="54">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/days/third/MyMainCalculator.java">
+        <entry file="file://$PROJECT_DIR$/koduote.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="904">
+              <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -101,6 +104,10 @@
         <option value="$PROJECT_DIR$/src/days/second/ThirdExample.java" />
         <option value="$PROJECT_DIR$/src/days/third/MyMainCalculator.java" />
         <option value="$PROJECT_DIR$/src/days/third/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/days/fourth/ListExample.java" />
+        <option value="$PROJECT_DIR$/src/days/fourth/SetExample.java" />
+        <option value="$PROJECT_DIR$/src/days/fourth/MapExample.java" />
+        <option value="$PROJECT_DIR$/koduote.txt" />
       </list>
     </option>
   </component>
@@ -111,10 +118,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="256" />
-    <option name="y" value="-12" />
-    <option name="width" value="850" />
-    <option name="height" value="749" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -122,9 +129,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,41 +138,18 @@
               <item name="1_diena" type="b2602c69:ProjectViewProjectNode" />
               <item name="1_diena" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="1_diena" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_diena" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1_diena" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_diena" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="days" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1_diena" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_diena" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="days" type="462c0819:PsiDirectoryNode" />
-              <item name="second" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1_diena" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1_diena" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="days" type="462c0819:PsiDirectoryNode" />
-              <item name="third" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536948902403" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537204044571" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -183,13 +166,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThirdExample">
-    <configuration name="FirstExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="days.first.FirstExample" />
+  <component name="RunManager" selected="Application.MapExample">
+    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.fourth.ListExample" />
       <module name="1_diena" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="days.first.*" />
+          <option name="PATTERN" value="days.fourth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="days.first.FirstTask" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.fourth.MapExample" />
       <module name="1_diena" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="days.first.*" />
+          <option name="PATTERN" value="days.fourth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,6 +199,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="days.second.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="days.fourth.SetExample" />
+      <module name="1_diena" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="days.fourth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,17 +233,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FirstExample" />
-      <item itemvalue="Application.FirstTask" />
       <item itemvalue="Application.SecondTask" />
       <item itemvalue="Application.ThirdExample" />
+      <item itemvalue="Application.ListExample" />
+      <item itemvalue="Application.SetExample" />
+      <item itemvalue="Application.MapExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.SetExample" />
+        <item itemvalue="Application.ListExample" />
         <item itemvalue="Application.ThirdExample" />
         <item itemvalue="Application.SecondTask" />
-        <item itemvalue="Application.FirstTask" />
-        <item itemvalue="Application.FirstExample" />
       </list>
     </recent_temporary>
   </component>
@@ -263,18 +261,21 @@
       <updated>1536769271114</updated>
       <workItem from="1536769277503" duration="7111000" />
       <workItem from="1536851666622" duration="9436000" />
-      <workItem from="1536939434656" duration="6705000" />
+      <workItem from="1536939434656" duration="7231000" />
+      <workItem from="1537085041541" duration="37000" />
+      <workItem from="1537196564304" duration="244000" />
+      <workItem from="1537197389567" duration="4051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23252000" />
+    <option name="totallyTimeSpent" value="28110000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1790831" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25501433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -290,7 +291,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5935397" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.41453567" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -304,7 +305,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1790831" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1325215" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -313,14 +314,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5706595" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5706595" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.5935397" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.41453567" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -412,29 +413,71 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/third/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/third/MyMainCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/ListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/third/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/SetExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="216">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="11" />
           <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/days/third/MyMainCalculator.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/BiConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="287">
+          <caret line="66" column="36" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/MapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/days/fourth/EncodeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/koduote.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="904">
+          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
         </state>
       </provider>
     </entry>
