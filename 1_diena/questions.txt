@@ -1,0 +1,5 @@
+Kiek bus 2 + 2?;2;1. 3;2. 4;3. 9
+Ar masyvo ilgis fiksuotas?;1;1. Taip;2. Ne;3. Galbut
+Kiek klasiu gali buti viename faile?;3;1. Vienas;2. Dvi;3. Daug tik viena su public
+Kur matomomas metodas su private modifikatorium?;1;1. Toje pacioje klaseje;2. Visur;3. Tik vaiko klaseje
+Kokie yra ciklai?;4;1. For;2. While;3. do/while;4. Visi teisingi
