@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="aopalliance-repackaged-2.5.0-b05">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/aopalliance-repackaged-2.5.0-b05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/hk2-api-2.5.0-b05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/hk2-locator-2.5.0-b05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/hk2-utils-2.5.0-b05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/javax.inject-2.5.0-b05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/javax.json-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jaxb-api-2.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jersey-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jersey-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jersey-container-servlet-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jersey-container-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jersey-entity-filtering-2.23.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jersey-guava-2.24.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jersey-media-jaxb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jersey-media-json-jackson-2.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jersey-media-moxy-2.24.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jersey-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/mysql-connector-java-5.1.40-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/org.eclipse.persistence.antlr-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/org.eclipse.persistence.asm-2.6.3-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/org.eclipse.persistence.core-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/org.eclipse.persistence.moxy-2.6.3-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/osgi-resource-locator-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/persistence-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/validation-api-1.1.0.final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/org.osgi.core-4.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../LIBS/web jar/org.osgi.core-4.2.0.jar!/OSGI-OPT/src" />
+    </SOURCES>
+  </library>
+</component>
